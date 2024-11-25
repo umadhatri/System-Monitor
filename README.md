@@ -29,7 +29,7 @@ Install dependencies using : `pip install -r requirements.txt`
 ### Steps to run the project
 1. Clone the repository
    ```bash
-   git clone https://github.com/yourusername/system-process-monitor.git 
+   git clone https://github.com/umadhatri/System-Monitor.git
    cd system-process-monitor
    ```
    
