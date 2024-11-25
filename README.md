@@ -44,7 +44,7 @@ Install dependencies using : `pip install -r requirements.txt`
 Check out the video demonstration here showcasing the real-time anomaly detection capabilities of the program!
 
 ## 📊 JSON Output of the system
-*insert JSON file*
+Please check the JSON file in the repository to see how the detected anomalies are stored in a JSON file
 
 ## 🔒 Applications
 - Cybersecurity: Detect malware-like behavior (e.g., excessive resource usage or unusual network activity)
