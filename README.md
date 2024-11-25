@@ -58,4 +58,4 @@ Contributions are welcome! Feel free to open issues or submit pull requests to e
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ## 📬 Contact
-Please feel free to contact me at [umasatyanarayana35@gmail.com] for more queries and questions
+Please feel free to contact me at [umasatyanarayana35@gmail.com](mailto:umasatyanarayana35@gmail.com) for more queries and questions
