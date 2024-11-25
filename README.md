@@ -41,7 +41,7 @@ Install dependencies using : `pip install -r requirements.txt`
 3. Monitor processes and detect anomalies in real time!
 
 ## 🎥 Demo
-Check out the video demonstration here showcasing the real-time anomaly detection capabilities of the program!
+Check out the video demonstration [here](https://youtu.be/Le7XCnft8mk) showcasing the real-time anomaly detection capabilities of the program!
 
 ## 📊 JSON Output of the system
 Please check the JSON file in the repository to see how the detected anomalies are stored in a JSON file
